@@ -1,2 +1,2 @@
 # nucleon
-Simple UI library using scala
+Reactive library for groovy
