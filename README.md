@@ -1,2 +1,2 @@
 # nucleon
-Nuclean - reactive library with groovy language
+Nuclean - kotlin helper libraries for developing reactive systems
